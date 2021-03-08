@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206166491793",
+    "project_id": "stoclothes-78628",
+    "storage_bucket": "stoclothes-78628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206166491793:android:0a259ab648876e8f653530",
+        "android_client_info": {
+          "package_name": "com.example.stoclothes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206166491793-g1840oanii89cohkacc01f5vp1orc4bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHerbX2IOn3GHv9IY8_B-WJcCHe_eww1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206166491793-g1840oanii89cohkacc01f5vp1orc4bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
